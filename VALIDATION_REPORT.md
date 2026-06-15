@@ -1,0 +1,136 @@
+# Validation Report - pregnancy-nutrition-guide
+
+Generated: 2026-06-05T18:15:39.425433
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: Exploring the World of Common Mistakes in Beginner Pregnancy Nutrition Guide
+- ✓ Article word count OK: The History of Beginner Pregnancy Nutrition Guide: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Why Future of Beginner Pregnancy Nutrition Guide is Trending in 2026
+- ✓ Article word count OK: The Future of Beginner Pregnancy Nutrition Guide: What to Expect
+- ✓ Article word count OK: Proven Strategies for Common Mistakes in Beginner Pregnancy Nutrition Guide
+- ✓ Article word count OK: Beginner Pregnancy Nutrition Guide: Must-Read Insights and Reviews
+- ✓ Article word count OK: Future of Beginner Pregnancy Nutrition Guide for Real People
+- ✓ Article word count OK: What They Don't Tell You About Beginner Pregnancy Nutrition Guide
+- ✓ Article word count OK: Beginner Pregnancy Nutrition Guide: From Beginner to Expert
+- ✓ Article word count OK: Proven Strategies for Beginner Pregnancy Nutrition Guide for Beginners
+- ✓ Article word count OK: The Ultimate Guide to Future of Beginner Pregnancy Nutrition Guide
+- ✓ Article word count OK: The Hidden Secrets of Beginner Pregnancy Nutrition Guide for Beginners
+- ✓ Article word count OK: Essential Beginner Pregnancy Nutrition Guide Techniques You Should Know
+- ✓ Article word count OK: Essential Beginner Pregnancy Nutrition Guide: Everything You Need to Know Techniques You Should Know
+- ✓ Article word count OK: Everything You Need to Know About Beginner Pregnancy Nutrition Guide
+- ✓ Article word count OK: Understanding Beginner Pregnancy Nutrition Guide for Beginners: A Deep Dive
+- ✓ Article word count OK: The Best Resources for Common Mistakes in Beginner Pregnancy Nutrition Guide
+- ✓ Article word count OK: Exploring the World of Future of Beginner Pregnancy Nutrition Guide
+- ✓ Article word count OK: The Ultimate Guide to Advanced Pregnancy Nutrition Guide: Everything You Need to Know
+- ✓ Article word count OK: Proven Strategies for Advanced Pregnancy Nutrition Guide in 2026: Current Trends
+- ✓ Article word count OK: Understanding Future of Advanced Pregnancy Nutrition Guide: A Deep Dive
+- ✓ Article word count OK: Everything You Need to Know About The History of Advanced Pregnancy Nutrition Guide
+- ✓ Article word count OK: Essential Advanced Pregnancy Nutrition Guide Techniques You Should Know
+- ✓ Article word count OK: The Best Resources for Advanced Advanced Pregnancy Nutrition Guide Techniques
+- ✓ Article word count OK: What They Don't Tell You About Advanced Pregnancy Nutrition Guide
+- ✓ Article word count OK: Exploring the World of Advanced Pregnancy Nutrition Guide
+- ✓ Article word count OK: The Hidden Secrets of Advanced Pregnancy Nutrition Guide for Beginners
+- ✓ Article word count OK: Advanced Pregnancy Nutrition Guide 101: Complete Beginner's Guide
+- ✓ Article word count OK: Exploring the World of Common Mistakes in Advanced Pregnancy Nutrition Guide
+- ✓ Article word count OK: Exploring the World of Advanced Pregnancy Nutrition Guide
+- ✓ Article word count OK: Everything You Need to Know About Advanced Pregnancy Nutrition Guide: Everything You Need to Know
+- ✓ Article word count OK: The Best Resources for Advanced Pregnancy Nutrition Guide: Everything You Need to Know
+- ✓ Article word count OK: Mastering Advanced Pregnancy Nutrition Guide for Beginners in Easy Steps
+- ✓ Article word count OK: Understanding Common Mistakes in Advanced Pregnancy Nutrition Guide: A Deep Dive
+- ✓ Article word count OK: Advanced Pregnancy Nutrition Guide: From Beginner to Expert
+- ✓ Article word count OK: Understanding Advanced Pregnancy Nutrition Guide Tips and Best Practices: A Deep Dive
+- ✓ Article word count OK: Everything You Need to Know About Pregnancy Nutrition Guide Tips in 2026: Current Trends
+- ✓ Article word count OK: Pregnancy Nutrition Guide Tips Tips and Best Practices: Must-Read Insights and Reviews
+- ✓ Article word count OK: Understanding Pregnancy Nutrition Guide Tips Tips and Best Practices: A Deep Dive
+- ✓ Article word count OK: Understanding Pregnancy Nutrition Guide Tips: A Deep Dive
+- ✓ Article word count OK: Why Advanced Pregnancy Nutrition Guide Tips Techniques is Trending in 2026
+- ✓ Article word count OK: Understanding Future of Pregnancy Nutrition Guide Tips: A Deep Dive
+- ✓ Article word count OK: Proven Strategies for Pregnancy Nutrition Guide Tips
+- ✓ Article word count OK: Everything You Need to Know About Pregnancy Nutrition Guide Tips: Everything You Need to Know
+- ✓ Article word count OK: The Ultimate Guide to Common Mistakes in Pregnancy Nutrition Guide Tips
+- ✓ Article word count OK: Exploring the World of Future of Pregnancy Nutrition Guide Tips
+- ✓ Article word count OK: Essential The History of Pregnancy Nutrition Guide Tips Techniques You Should Know
+- ✓ Article word count OK: Everything You Need to Know About Pregnancy Nutrition Guide Tips in 2026: Current Trends
+- ✓ Article word count OK: The History of Pregnancy Nutrition Guide Tips for Real People
+- ✓ Article word count OK: Understanding Pregnancy Nutrition Guide Tips: Everything You Need to Know: A Deep Dive
+- ✓ Article word count OK: Pregnancy Nutrition Guide Tips: Everything You Need to Know 101: Complete Beginner's Guide
+- ✓ Article word count OK: Everything You Need to Know About Pregnancy Nutrition Guide Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding The History of Pregnancy Nutrition Guide Tips: A Deep Dive
+- ✓ Article word count OK: Exploring the World of Common Mistakes in Pregnancy Nutrition Guide Tips
+- ✓ Article word count OK: The Best Resources for Pregnancy Nutrition Guide History
+- ✓ Article word count OK: Understanding Pregnancy Nutrition Guide History: A Deep Dive
+- ✓ Article word count OK: The Best Resources for Pregnancy Nutrition Guide History
+- ✓ Article word count OK: Proven Strategies for Pregnancy Nutrition Guide History Tips and Best Practices
+- ✓ Article word count OK: Pregnancy Nutrition Guide History for Beginners 101: Complete Beginner's Guide
+- ✓ Article word count OK: Mastering Common Mistakes in Pregnancy Nutrition Guide History in Easy Steps
+- ✓ Article word count OK: Future of Pregnancy Nutrition Guide History: Must-Read Insights and Reviews
+- ✓ Article word count OK: Exploring the World of Pregnancy Nutrition Guide History
+- ✓ Article word count OK: Advanced Pregnancy Nutrition Guide History Techniques: From Beginner to Expert
+- ✓ Article word count OK: The Future of Pregnancy Nutrition Guide History: What to Expect
+- ✓ Article word count OK: Mastering Pregnancy Nutrition Guide History for Beginners in Easy Steps
+- ✓ Article word count OK: The Ultimate Guide to Pregnancy Nutrition Guide History for Beginners
+- ✓ Article word count OK: Pregnancy Nutrition Guide History in 2026: Current Trends: Must-Read Insights and Reviews
+- ✓ Article word count OK: Advanced Pregnancy Nutrition Guide History Techniques: Must-Read Insights and Reviews
+- ✓ Article word count OK: Why Pregnancy Nutrition Guide History is Trending in 2026
+- ✓ Article word count OK: Pregnancy Nutrition Guide History: Must-Read Insights and Reviews
+- ✓ Article word count OK: Understanding Pregnancy Nutrition Guide History for Beginners: A Deep Dive
+- ✓ Article word count OK: Everything You Need to Know About Pregnancy Nutrition Guide History for Beginners
+- ✓ Article word count OK: Trending Pregnancy Nutrition Guide: Must-Read Insights and Reviews
+- ✓ Article word count OK: The Ultimate Guide to Trending Pregnancy Nutrition Guide for Beginners
+- ✓ Article word count OK: Understanding Trending Pregnancy Nutrition Guide: Everything You Need to Know: A Deep Dive
+- ✓ Article word count OK: The Truth About Common Mistakes in Trending Pregnancy Nutrition Guide
+- ✓ Article word count OK: The Best Resources for Trending Pregnancy Nutrition Guide: Everything You Need to Know
+- ✓ Article word count OK: Mastering Trending Pregnancy Nutrition Guide in Easy Steps
+- ✓ Article word count OK: Everything You Need to Know About Common Mistakes in Trending Pregnancy Nutrition Guide
+- ✓ Article word count OK: Everything You Need to Know About The History of Trending Pregnancy Nutrition Guide
+- ✓ Article word count OK: Trending Pregnancy Nutrition Guide in 2026: Current Trends: From Beginner to Expert
+- ✓ Article word count OK: Why Trending Pregnancy Nutrition Guide for Beginners is Trending in 2026
+- ✓ Article word count OK: Trending Pregnancy Nutrition Guide: Everything You Need to Know 101: Complete Beginner's Guide
+- ✓ Article word count OK: Mastering Trending Pregnancy Nutrition Guide for Beginners in Easy Steps
+- ✓ Article word count OK: The Ultimate Guide to The History of Trending Pregnancy Nutrition Guide
+- ✓ Article word count OK: The Best Resources for The History of Trending Pregnancy Nutrition Guide
+- ✓ Article word count OK: Essential Trending Pregnancy Nutrition Guide: Everything You Need to Know Techniques You Should Know
+- ✓ Article word count OK: The Ultimate Guide to Trending Pregnancy Nutrition Guide for Beginners
+- ✓ Article word count OK: Everything You Need to Know About Trending Pregnancy Nutrition Guide for Beginners
+- ✓ Article word count OK: Mastering Trending Pregnancy Nutrition Guide in Easy Steps
+- ✓ Article word count OK: Common Mistakes in Pregnancy Nutrition Guide Tutorials: Must-Read Insights and Reviews
+- ✓ Article word count OK: The Ultimate Guide to Pregnancy Nutrition Guide Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Pregnancy Nutrition Guide Tutorials Tips and Best Practices: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Best Resources for Pregnancy Nutrition Guide Tutorials Tips and Best Practices
+- ✓ Article word count OK: Mastering Advanced Pregnancy Nutrition Guide Tutorials Techniques in Easy Steps
+- ✓ Article word count OK: Advanced Pregnancy Nutrition Guide Tutorials Techniques: Must-Read Insights and Reviews
+- ✓ Article word count OK: Understanding Pregnancy Nutrition Guide Tutorials in 2026: Current Trends: A Deep Dive
+- ✓ Article word count OK: Mastering The History of Pregnancy Nutrition Guide Tutorials in Easy Steps
+- ✓ Article word count OK: The Hidden Secrets of Pregnancy Nutrition Guide Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Is Common Mistakes in Pregnancy Nutrition Guide Tutorials Actually Worth It?
+- ✓ Article word count OK: Advanced Pregnancy Nutrition Guide Tutorials Techniques: From Beginner to Expert
+- ✓ Article word count OK: Understanding Future of Pregnancy Nutrition Guide Tutorials: A Deep Dive
+- ✓ Article word count OK: The Future of The History of Pregnancy Nutrition Guide Tutorials: What to Expect
+- ✓ Article word count OK: Why Pregnancy Nutrition Guide Tutorials for Beginners is Trending in 2026
+- ✓ Article word count OK: Advanced Pregnancy Nutrition Guide Tutorials Techniques: Must-Read Insights and Reviews
+- ✓ Article word count OK: The Hidden Secrets of Pregnancy Nutrition Guide Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Pregnancy Nutrition Guide Tutorials for Beginners: Must-Read Insights and Reviews
+- ✓ Article word count OK: Pregnancy Nutrition Guide Tutorials in 2026: Current Trends: Must-Read Insights and Reviews
+- ✓ Ad configuration validated

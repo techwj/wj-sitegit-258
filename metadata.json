@@ -1,0 +1,72 @@
+{
+  "siteId": "pregnancy-nutrition-guide",
+  "generatedAt": "2026-06-05T18:15:39.425676",
+  "categories": [
+    "beginner-pregnancy-nutrition-guide",
+    "advanced-pregnancy-nutrition-guide",
+    "tips-pregnancy-nutrition-guide",
+    "history-pregnancy-nutrition-guide",
+    "trending-pregnancy-nutrition-guide",
+    "tutorials-pregnancy-nutrition-guide"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-pregnancy-nutrition-guide",
+      "category_name": "Beginner Pregnancy Nutrition Guide"
+    },
+    {
+      "category_slug": "advanced-pregnancy-nutrition-guide",
+      "category_name": "Advanced Pregnancy Nutrition Guide"
+    },
+    {
+      "category_slug": "tips-pregnancy-nutrition-guide",
+      "category_name": "Pregnancy Nutrition Guide Tips"
+    },
+    {
+      "category_slug": "history-pregnancy-nutrition-guide",
+      "category_name": "Pregnancy Nutrition Guide History"
+    },
+    {
+      "category_slug": "trending-pregnancy-nutrition-guide",
+      "category_name": "Trending Pregnancy Nutrition Guide"
+    },
+    {
+      "category_slug": "tutorials-pregnancy-nutrition-guide",
+      "category_name": "Pregnancy Nutrition Guide Tutorials"
+    }
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "pregnancy-nutrition-guide",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "name": "Montserrat",
+      "family": "'Montserrat', sans-serif",
+      "import": "@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap');"
+    },
+    "layout": "sidebar-right",
+    "border_radius": "0px",
+    "box_shadow": "0 1px 3px rgba(0,0,0,0.1)",
+    "article_card_style": "masonry",
+    "header_style": "sticky",
+    "footer_style": "simple",
+    "modules": [
+      "category-highlights",
+      "recent-comments",
+      "trending-articles",
+      "popular-tags",
+      "about-widget",
+      "social-links"
+    ],
+    "site_title": "Pregnancy Nutrition Guide Central",
+    "articles_per_row": 2
+  }
+}
